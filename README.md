@@ -1,6 +1,6 @@
 # Parcial_2_IA
 
-Click [aquí](https://github.com/ESTHERRODRIGUEZGARCIA/el_mensajero) para ver el enlace del repositorio.
+Click [aquí]https://github.com/ESTHERRODRIGUEZGARCIA/Parcial_2_IA) para ver el enlace del repositorio.
 
 Trabajo hecho por:
 1. [Esther Rodríguez García](https://github.com/ESTHERRODRIGUEZGARCIA)
@@ -39,4 +39,11 @@ Generamos un script para calcular y visualizar las tensiones y deformaciones en 
 
 #### Caso de Estudio
 Aplicamos todo el flujo de trabajo a un caso de estudio estructural proporcionado, desde el pre-procesamiento hasta el post-procesamiento. Discutimos cómo cada decisión tomada en cada etapa afectó el resultado final, proporcionando una comprensión integral de la interacción entre los datos de entrada, el modelo numérico y los resultados de análisis estructural.
+
+
+#### Resultados Actuales en Paraview
+En la visualización actual, se muestra una viga en su estado geométrico no deformado. Los datos provienen del archivo viga.vtu que contiene información sobre la geometría de la viga. Este es un punto de partida esencial para realizar simulaciones de cómo se deformaría la viga bajo ciertas cargas o condiciones de contorno.
+
+
+![vtu](https://github.com/ESTHERRODRIGUEZGARCIA/Parcial_2_IA/assets/91721860/576486ef-c9f1-4292-9014-403258415df8)
 
