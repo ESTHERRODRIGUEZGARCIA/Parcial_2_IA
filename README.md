@@ -1,5 +1,10 @@
 # Parcial_2_IA
 
+Click [aquí](https://github.com/ESTHERRODRIGUEZGARCIA/el_mensajero) para ver el enlace del repositorio.
+
+Trabajo hecho por:
+1. [Esther Rodríguez García](https://github.com/ESTHERRODRIGUEZGARCIA)
+
 ### Informe de Avances: Método de Elementos Finitos en Ingeniería Digital
 
 **Parte I: Fundamentos de Elementos Finitos**
