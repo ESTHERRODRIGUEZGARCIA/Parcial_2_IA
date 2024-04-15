@@ -1,6 +1,6 @@
 # Parcial_2_IA
 
-Click [aquí]https://github.com/ESTHERRODRIGUEZGARCIA/Parcial_2_IA) para ver el enlace del repositorio.
+Click [aquí](https://github.com/ESTHERRODRIGUEZGARCIA/Parcial_2_IA) para ver el enlace del repositorio.
 
 Trabajo hecho por:
 1. [Esther Rodríguez García](https://github.com/ESTHERRODRIGUEZGARCIA)
